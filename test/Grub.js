@@ -1,4 +1,5 @@
 describe('Grub class functionality', function() {
+  var grub;
 
   verifyClass(Grub).followsPattern('pseudoclassical', {}, false);
 
